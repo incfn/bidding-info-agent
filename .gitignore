@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary / cache files
+_analysis_progress.json
+
+# IDE
+.vscode/
+.idea/
